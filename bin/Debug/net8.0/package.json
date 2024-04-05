@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/printer": "^0.4.5"
+  }
+}
